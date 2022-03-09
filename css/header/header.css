@@ -1,0 +1,9 @@
+.header {
+  height: 60vh;
+  margin-top: 40vh;
+  font-size: 2rem;
+}
+
+.green {
+  color: var(--green);
+}

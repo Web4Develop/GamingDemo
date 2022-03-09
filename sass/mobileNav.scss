@@ -1,0 +1,52 @@
+$black: rgb(0, 0, 0);
+$white: rgb(255, 255, 255);
+$green: rgb(0, 250, 154);
+$coral: rgb(240, 128, 128);
+
+/* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: $white;
+  position: relative;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks,
+.topnav #myLinksFooter {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: $black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+  // margin: 0 4rem;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: $white;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+.topnav a:hover {
+  background-color: $black;
+  color: $green;
+}
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: $green;
+  color: $white;
+}
+
+.bars {
+  margin: 0 3rem;
+}

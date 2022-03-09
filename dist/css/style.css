@@ -1,0 +1,141 @@
+.header {
+  height: 60vh;
+  margin-top: 40vh;
+  font-size: 2rem;
+  line-height: 10rem;
+}
+
+.green {
+  color: mediumspringgreen;
+}
+
+.navigation {
+  background: mediumspringgreen;
+  padding: 20px;
+}
+
+.navigation .navigation li {
+  display: inline;
+  padding: 0 20px;
+  font-size: 1.3rem;
+  text-transform: lowercase;
+}
+
+.navigation .navigation a:hover {
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  text-transform: uppercase;
+}
+
+.introduction {
+  margin: 10vh 0;
+}
+
+.introduction .introHeader {
+  font-size: 3rem;
+  /* margin-top: 10rem; */
+  margin-top: 20vh;
+}
+
+.introduction .introText {
+  font-size: 1.7rem;
+}
+
+.introduction .introText .introSpacing {
+  /* padding-top: 90px;
+      padding-bottom: 90px; */
+  /* padding-top: 7rem;
+      padding-bottom: 5rem; */
+  padding-top: 15vh;
+  padding-bottom: 10vh;
+}
+
+.introduction .gamingListHeader {
+  padding-top: 3rem;
+  font-size: 1.5rem;
+  color: lightcoral;
+}
+
+.introduction .gamingList {
+  padding: 5rem 0;
+  text-align: left;
+  font-size: 1.3rem;
+}
+
+.introduction .gamingListImages {
+  margin: auto;
+  max-width: 100%;
+}
+
+.introduction .gamingListSubHeader {
+  text-align: center;
+  display: block;
+  font-size: 2.3rem;
+  margin: 40px auto;
+  border-bottom: solid 1px;
+  width: 40%;
+}
+
+.introduction .gamingListSubHeader:hover {
+  color: mediumspringgreen;
+}
+
+.footer {
+  background: black;
+  color: white;
+}
+
+.footer .navigation {
+  display: none;
+  font-size: 3rem;
+}
+
+.footer .navigation li {
+  margin: 3rem 0;
+}
+
+.footer .navigation a {
+  border: solid 1px black;
+  padding: 1rem;
+}
+
+.footer .navigation a:hover {
+  color: white;
+  background: black;
+}
+
+.footer .icons {
+  display: -ms-grid;
+  display: grid;
+}
+
+.footer .icons li {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 2rem;
+  margin: 3rem 0;
+}
+
+.footer .icons a {
+  color: mediumspringgreen;
+  padding: 2rem;
+}
+
+.footer .icons a:hover {
+  color: white;
+}
+
+.footer .copyrights {
+  padding: 6rem 0 4rem;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.footer .copyrights .githubPages {
+  color: lightcoral;
+}
+
+.footer .copyrights :hover {
+  color: mediumspringgreen;
+}
+/*# sourceMappingURL=style.css.map */

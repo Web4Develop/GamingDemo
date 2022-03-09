@@ -1,0 +1,28 @@
+@media only screen and (max-width: 600px) {
+  .footer {
+    .icons {
+      grid-template-columns: auto;
+    }
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .footer {
+    .navigation {
+      display: grid;
+    }
+    .navigation,
+    .icons {
+      grid-template-columns: auto auto;
+    }
+  }
+}
+
+@media only screen and (min-width: 1100px) {
+  .footer {
+    .navigation,
+    .icons {
+      grid-template-columns: auto auto auto;
+    }
+  }
+}

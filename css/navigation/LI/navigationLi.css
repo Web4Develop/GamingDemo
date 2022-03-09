@@ -1,0 +1,6 @@
+.navigation li {
+  display: inline;
+  padding: 0 20px;
+  font-size: 1.3rem;
+  text-transform: lowercase;
+}

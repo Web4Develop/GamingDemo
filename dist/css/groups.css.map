@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO;AACP,aAAa;AACb,WAAW,CAAC;EACV,UAAU,EAAE,MAAM;CACnB;;AAED,AAAA,UAAU,CAAC,CAAC;AACZ,WAAW,CAAC,CAAC,CAAC;EACZ,MAAM,EAAE,MAAM;EACd,KAAK,EAAE,IAAI;CACZ",
+    "sources": [
+        "../../sass/groups.scss"
+    ],
+    "names": [],
+    "file": "groups.css"
+}

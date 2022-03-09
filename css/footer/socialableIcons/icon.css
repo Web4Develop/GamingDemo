@@ -1,0 +1,9 @@
+.icons a {
+  color: var(--green);
+}
+
+.icons li {
+  display: inline;
+  text-align: center;
+  margin: 0 auto;
+}

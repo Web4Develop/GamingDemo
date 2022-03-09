@@ -1,0 +1,6 @@
+.tabsContent {
+  display: none;
+  padding: 6px 12px;
+  border: solid 1px rgb(204, 204, 204);
+  border-top: none;
+}

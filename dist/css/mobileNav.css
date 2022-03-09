@@ -1,0 +1,47 @@
+/* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  position: relative;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks,
+.topnav #myLinksFooter {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: white;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+.topnav a:hover {
+  background-color: black;
+  color: mediumspringgreen;
+}
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: mediumspringgreen;
+  color: white;
+}
+
+.bars {
+  margin: 0 3rem;
+}
+/*# sourceMappingURL=mobileNav.css.map */

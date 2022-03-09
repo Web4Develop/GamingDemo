@@ -1,0 +1,12 @@
+.header,
+.introduction,
+.navigation {
+  text-align: center;
+}
+
+.introText p,
+.gamingList p {
+  margin: 0 auto;
+  width: 80vw;
+}
+/*# sourceMappingURL=groups.css.map */

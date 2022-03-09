@@ -1,0 +1,14 @@
+$black: rgb(0, 0, 0);
+$coral: rgb(240, 128, 128);
+
+.demo {
+  // padding: 20px;
+  background: $black;
+  color: $coral;
+  text-align: center;
+  padding-top: 5rem;
+  display: none;
+  font-size: 3rem;
+  height: 20rem;
+  line-height: 5rem;
+}

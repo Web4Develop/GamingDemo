@@ -1,0 +1,5 @@
+.navigation a:hover {
+  color: var(--white);
+  text-shadow: 2px 2px 2px black;
+  text-transform: uppercase;
+}

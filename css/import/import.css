@@ -1,0 +1,40 @@
+/* global */
+@import url(/css/global/global.css);
+
+/* root */
+@import url(/css/root/root.css);
+
+/* groups */
+@import url(/css/groups/groups.css);
+
+/* header */
+@import url(/css/header/header.css);
+
+/* navigation */
+@import url(/css/navigation/navigation.css);
+@import url(/css/navigation/hover/navigationA-Hover.css);
+@import url(/css/navigation/LI/navigationLi.css);
+
+/* introduction */
+@import url(/css/introduction/introduction.css);
+@import url(/css/introduction/introHeader.css);
+@import url(/css/introduction/introText.css);
+@import url(/css/introduction/introSpacing.css);
+
+/* gamingList */
+@import url(/css/gamingList/gamingList.css);
+@import url(/css/gamingList/gamingListHeader.css);
+@import url(/css/gamingList/gamingListSubHeader.css);
+@import url(/css/gamingList/hover/gamingListSubHeaderHover.css);
+@import url(/css/gamingList/images/gamingListImages.css);
+
+/* tabs */
+@import url(/css/tabs/tabs.css);
+@import url(/css/tabs/button/tabsButton.css);
+@import url(/css/tabs/hover/tabsButtonHover.css);
+@import url(/css/tabs/tabsContent/tabsContent.css);
+
+/* footer */
+@import url(/css/footer/footer.css);
+@import url(/css/footer/socialableIcons/icon.css);
+@import url(/css/footer/socialableIcons/iconsLinks.css);
